@@ -1,4 +1,4 @@
-# 👥 User Engagement & Customer Behavior Analytics Platform
+# 👥Customer Intelligence and Behavior Analytics Platform
 
 ## 📌 Project Overview
 
@@ -40,7 +40,7 @@ This project addresses these challenges through customer intelligence and behavi
 
 ## 📂 Repository Structure
 
-User-Engagement-and-Customer-Behavior-Analytics-Platform
+Customer-Intelligence-and-Customer-Behavior-Analytics-Platform
 
 ├── data
 │ └── OnlineRetail.csv
